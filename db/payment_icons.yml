@@ -255,6 +255,10 @@
   label: ViaBill
   group: other
 -
+  name: divido
+  label: divido
+  group: other
+-
   name: klarna
   label: Klarna
   group: other
